@@ -17,3 +17,5 @@ mat2:
 1 2 3
 
 La riga 0 di  mat1 è uguale alle riga 0  e alla riga 2 di mat2; la colonna 0 di mat1 è uguale alla colonna 0 di mat2.
+
+(il progamma avrà bisogno dunque di due file di testo)
